@@ -536,5 +536,6 @@
 	"gui.xaero_category_paste" : "Paste §e%1$s§r Into §e%2$s",
 	"gui.xaero_category_paste_cancel" : "Cancel Cut/Paste",
 	"gui.xaero_category_duplicate" : "Duplicate §e%1$s",
-	"gui.xaero_category_duplicate_confirm" : "Duplicate the following category?"
+	"gui.xaero_category_duplicate_confirm" : "Duplicate the following category?",
+	"gui.xaero_reverse_entity_radar" : "Reverse Radar Render Order"
 }
