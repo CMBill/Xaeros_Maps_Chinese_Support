@@ -1,4 +1,4 @@
-# Xaero的地图模组汉化支持
+# Xaero 的地图模组汉化支持
 
 [![](https://img.shields.io/badge/progress-59%25-FFEB00.svg?style=flat-square)]()
 [![](https://img.shields.io/badge/Minecraft-1.17.1-informational.svg?style=flat-square) ](https://www.minecraft.net/)
